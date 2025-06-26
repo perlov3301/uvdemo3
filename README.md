@@ -5,3 +5,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/perlov3301/uvdemo3.git
 git push -u origin main
+
+git remote set-url origin https://github.com/perlov3301/uvdemo3.git
+git remote -v
