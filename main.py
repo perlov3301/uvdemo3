@@ -1,5 +1,6 @@
+import pygame
 def main():
-    print("Hello from uvdemo3!")
+    print("Hello from uvdemo3")
 
 
 if __name__ == "__main__":
